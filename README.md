@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### I've been researching this lately. 🤩
+
+![faceparsing데모](https://github.com/Seungeun-Han/Seungeun-Han/assets/101082685/69df6ffa-1ee2-4e90-97e4-1bb656f32fd9)
+
+
 ### My Previous Github Link 🐱
 
 Here you will find __C++ code for image processing__, along with algorithms for __age and heart rate estimation__, all of which I have been developing since 2021.
